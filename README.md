@@ -1,4 +1,4 @@
-# CS6530_Assignment3_Elagamal
+# CS6530_Assignment4_Elagamal
 <p>
 Name: Snigdha Bose</br>
 Roll number: CS21M502</br>
