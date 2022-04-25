@@ -1,9 +1,4 @@
-# CS6530_Assignment4_Elagamal
-<p>
-Name: Snigdha Bose</br>
-Roll number: CS21M502</br>
-Registered Mail ID: snigdhab7@gmail.com</br>
-</p>
+
 The program displays the encrypted and decrypted messages.
 <p>
 <br>Note: Sample output PNG attached</br>
